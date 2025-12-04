@@ -21,7 +21,7 @@ Aprender e compartilhar conhecimento com a comunidade
 Contribuições são extremamente bem-vindas!
 Antes de começar, recomendamos:
 
-Leia o Guia de Contribuição [CONTRIBUTING.md](https://github.com/Kookie-Community/Kookie-Community/CONTRIBUTING.md)
+Leia o Guia de Contribuição [CONTRIBUTING.md](https://github.com/Kookie-Community/.github/tree/main/docs)
 
 Verifique as issues abertas e veja se algo já está em andamento
 

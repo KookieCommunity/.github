@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório oficial da Kookie Community — o espaço colaborativo da comunidade do [Kookie](https://kookie.app), a rede social brasileira feita para todas as pessoas que gostam de se conectar de forma leve e livre.
 
-Este repositório reúne projetos open-source desenvolvidos pela comunidade, além de documentação, guias e recursos para quem deseja contribuir com o ecossistema do Kookie incluindo o servidor do Discord mantido pela comunidade.
+Este repositório reúne projetos open-source desenvolvidos pela comunidade, além de documentação, guias e recursos para quem deseja contribuir com o ecossistema do servidor no Discord mantido pela comunidade.
 
 ## **🎯 Objetivo**
 

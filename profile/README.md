@@ -57,6 +57,4 @@ Divulgar para outras pessoas da comunidade
 
 Participar dos projetos e discussões
 
-## **🍪 Feito pela Comunidade. Para a Comunidade.**
-
-**Obrigado por fazer parte da Kookie Community 💙**
+## **🍪💙 Feito pela Comunidade. Para a Comunidade.**
